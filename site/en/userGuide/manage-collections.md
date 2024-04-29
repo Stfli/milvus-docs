@@ -43,7 +43,7 @@ You can create a collection in either of the following manners:
 
 ### Quick setup
 
-Against the backdrop of the great leap in the AI industry, most developers just need a simple yet dynamic collection to start with. Milvus allows a quick setup of such a collection with just three arguments: 
+Milvus allows a quick setup of such a collection with just three arguments: 
 
 - Name of the collection to create,
 
